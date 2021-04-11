@@ -20,7 +20,7 @@ In this section, we would propose:
 
    a. Let $\mu = \frac{1}{2}$,
    a. Let $x = \xi$, and
-	   $$\int f(x) dx$$.
+      $$\int f(x) dx$$.
 
 ```r
 library(MASS)
