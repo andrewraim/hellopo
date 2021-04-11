@@ -17,10 +17,8 @@ In this section, we would propose:
 1. Starting with Github,
 1. We would,
 1. Pour coffee and kapeng mainits.
-
    a. Let $\mu = \frac{1}{2}$,
-   a. Let $x = \xi$, and
-      $$\int f(x) dx$$.
+   a. Let $x = \xi$, and $$\int f(x) dx$$.
 
 ```r
 library(MASS)
